@@ -2,7 +2,7 @@ Hey There, I'm Ruweida Yusuf!
 Welcome to my Github profile
 🔐 About Me
 
-🏅 Certified in Cybersecurity & Ethical Hacking (replace with issuer & year)
+🏅 Certified in Cybersecurity & Ethical Hacking 
 
 🛠️ Passionate about securing systems before the bad guys get a chance
 
@@ -18,7 +18,7 @@ Offensive tools: Nmap · Metasploit · Burp Suite · Wireshark
 
 Defensive stack: Splunk (SIEM) · Snort (IDS/IPS) · CrowdStrike (EDR)
 
-Cloud: AWS · Azure (security posture)
+Cloud: AWS · Azure 
 
 OS: Kali Linux · Debian · Windows Server
 
