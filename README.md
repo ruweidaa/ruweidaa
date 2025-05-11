@@ -12,7 +12,7 @@ Welcome to my Github profile
 
 🛡️ Skills & Toolbelt
 
-Languages: Python, Bash, JavaScript
+Languages: Python
 
 Offensive tools: Nmap · Metasploit · Burp Suite · Wireshark
 
