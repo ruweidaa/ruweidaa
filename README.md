@@ -1,16 +1,86 @@
-## Hi there 👋
+Hey There, I'm Ruweida Yusuf!
+Welcome to my Github profile
+🔐 About Me
 
-<!--
-**ruweidaa/ruweidaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏅 Certified in Cybersecurity & Ethical Hacking (replace with issuer & year)
 
-Here are some ideas to get you started:
+🛠️ Passionate about securing systems before the bad guys get a chance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Currently exploring malware analysis & cloud security
+
+📚 Lifelong learner, coffee‑powered
+
+🛡️ Skills & Toolbelt
+
+Languages: Python, Bash, JavaScript
+
+Offensive tools: Nmap · Metasploit · Burp Suite · Wireshark
+
+Defensive stack: Splunk (SIEM) · Snort (IDS/IPS) · CrowdStrike (EDR)
+
+Cloud: AWS · Azure (security posture)
+
+OS: Kali Linux · Debian · Windows Server
+
+🚀 Projects
+
+Project
+
+Description
+
+Tech
+
+HackLab
+
+Automated vulnerability scanning & reporting pipeline
+
+Python · Nmap · Pandas
+
+NetGuard
+
+Real‑time network anomaly detection using ML
+
+Python · Scikit‑learn
+
+Capture‑the‑Flag Write‑ups
+
+Detailed CTF solutions & methodologies
+
+Markdown
+
+📜 Certifications
+
+Credential
+
+Issuer
+
+Year
+
+Certified Ethical Hacker (CEH)
+
+EC‑Council
+
+2025
+
+Cybersecurity Fundamentals
+
+
+
+2024
+
+📝 Latest Blog Posts
+
+📊 GitHub Stats
+
+🤝 Connect With Me
+
+
+
+
+
+💬 Ask me about: pentesting, cloud security, CTF challenges, espresso recipes
+🕵️ Motto: "Trust, but verify."
+🎯 Goals for 2025: OSCP, build open‑source threat‑intel tool
+
+“There's no patch for human curiosity.” — Kevin Mitnick
+
